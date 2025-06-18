@@ -90,4 +90,4 @@ Walk & Win is more than just a fitness tracker — it’s a **daily wellness com
 ## 🎥 Presentation
 
 You can view or download the full visual walkthrough here:  
-👉 [📎 Walk & Win App – Full Presentation (PPTX)](./Walk-and-Win-App-Presentation.pptx)
+👉 [📎 Walk & Win App – Full Presentation (PPTX)](./Walk and win app.pptx)
